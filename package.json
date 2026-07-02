@@ -3,7 +3,6 @@
   "version": "0.1.0-alpha",
   "description": "Distributed Raft cluster for SqlVec DB",
   "main": "dist/index.js",
-  "peerDependencies": { "@agentix-e/sqlvec-db-node": "^1.0.0" },
   "dependencies": {
     "raft-logic": "^0.3.14", "zeromq": "^6.5.0",
     "@msgpack/msgpack": "^3.1.3", "lmdb": "^3.5.4",
